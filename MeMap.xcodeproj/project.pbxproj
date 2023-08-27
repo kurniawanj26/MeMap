@@ -18,6 +18,7 @@
 		D92A5D772A989CE400E32F3D /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92A5D762A989CE400E32F3D /* LocationsListView.swift */; };
 		D92A5D792A98B2BB00E32F3D /* LocationPreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92A5D782A98B2BB00E32F3D /* LocationPreviewView.swift */; };
 		D93B76EF2A9BA0E800F83D86 /* LocationMapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93B76EE2A9BA0E800F83D86 /* LocationMapAnnotationView.swift */; };
+		D93B76F12A9BA5E700F83D86 /* LocationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D93B76F02A9BA5E700F83D86 /* LocationDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		D92A5D762A989CE400E32F3D /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 		D92A5D782A98B2BB00E32F3D /* LocationPreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPreviewView.swift; sourceTree = "<group>"; };
 		D93B76EE2A9BA0E800F83D86 /* LocationMapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationMapAnnotationView.swift; sourceTree = "<group>"; };
+		D93B76F02A9BA5E700F83D86 /* LocationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				D92A5D722A9891D100E32F3D /* LocationsView.swift */,
+				D93B76F02A9BA5E700F83D86 /* LocationDetailView.swift */,
 				D92A5D782A98B2BB00E32F3D /* LocationPreviewView.swift */,
 				D93B76EE2A9BA0E800F83D86 /* LocationMapAnnotationView.swift */,
 				D92A5D762A989CE400E32F3D /* LocationsListView.swift */,
@@ -198,6 +201,7 @@
 				D92A5D5D2A988C7B00E32F3D /* ContentView.swift in Sources */,
 				D92A5D732A9891D100E32F3D /* LocationsView.swift in Sources */,
 				D92A5D6E2A988E7800E32F3D /* Location.swift in Sources */,
+				D93B76F12A9BA5E700F83D86 /* LocationDetailView.swift in Sources */,
 				D92A5D5B2A988C7B00E32F3D /* MeMapApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
